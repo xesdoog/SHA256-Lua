@@ -2,7 +2,8 @@
 
 SHA256 hashing algorithm in pure Lua.
 
-Inspired from [lua-users: Secure Hash Algorithm](http://lua-users.org/wiki/SecureHashAlgorithm)
+- Inspired from [lua-users: Secure Hash Algorithm](http://lua-users.org/wiki/SecureHashAlgorithm).
+- Lua version: 5.4.x
 
 ## Usage Example (CLI)
 
